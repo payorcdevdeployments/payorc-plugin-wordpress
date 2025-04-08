@@ -1,0 +1,58 @@
+.payorc-lookup-container {
+    margin-top: 20px;
+    max-width: 100%;
+}
+
+.payorc-lookup-container .table-responsive {
+    overflow-x: auto;
+}
+
+.payorc-lookup-form {
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ccd0d4;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.payorc-lookup-form label {
+    display: inline-block;
+    margin-right: 10px;
+    font-weight: 600;
+}
+
+.payorc-lookup-form input[type="text"] {
+    width: 300px;
+    margin-right: 10px;
+}
+
+#payorc-result {
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ccd0d4;
+    border-radius: 4px;
+}
+
+#payorc-result h2 {
+    margin-top: 0;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.payorc-result-content table {
+    margin-top: 15px;
+}
+
+.payorc-result-content th {
+    width: 200px;
+    font-weight: 600;
+}
+
+.payorc-result-content pre {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 4px;
+    overflow: auto;
+    max-height: 400px;
+    margin: 0;
+}

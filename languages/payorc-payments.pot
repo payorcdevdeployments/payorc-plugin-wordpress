@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PayOrc Payment Gateway for WooCommerce 1.0.0\n"
+"POT-Creation-Date: 2023-12-14 10:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-12-14 10:00+0000\n"
+"Last-Translator: PayOrc\n"
+"Language-Team: PayOrc\n"
+"X-Generator: WP-CLI 2.8.1\n"
+
+msgid "PayOrc Payments"
+msgstr ""
+
+msgid "Accept payments through PayOrc payment gateway"
+msgstr ""
+
+msgid "Enable/Disable"
+msgstr ""
+
+msgid "Enable PayOrc Payment"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Test mode"
+msgstr ""
+
+msgid "Enable Test Mode"
+msgstr ""
+
+msgid "Test Merchant Key"
+msgstr ""
+
+msgid "Test Merchant Secret"
+msgstr ""
+
+msgid "Live Merchant Key"
+msgstr ""
+
+msgid "Live Merchant Secret"
+msgstr ""
+
+msgid "Checkout Mode"
+msgstr ""
+
+msgid "iFrame"
+msgstr ""
+
+msgid "Hosted Checkout"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "SALE"
+msgstr ""
+
+msgid "AUTH"
+msgstr ""
+
+msgid "Capture Method"
+msgstr ""
+
+msgid "AUTOMATIC"
+msgstr ""
+
+msgid "MANUAL"
+msgstr ""
