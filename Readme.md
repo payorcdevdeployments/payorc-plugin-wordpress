@@ -4,6 +4,9 @@
 
 PayOrc Payment Gateway for WordPress provides a simple and secure way to accept payments on your WordPress website. The plugin supports both iframe and hosted checkout modes, making it flexible for different use cases.
 
+Signup for sandbox account: https://merchant.payorc.com/console/merchant-signup
+Visit API documentation: https://api.payorc.com
+
 ## Features
 
 - Easy integration with PayOrc payment gateway
